@@ -1,0 +1,24 @@
+Hola soy ponchocuar
+este es mi última creación de mis
+ esta es una versión beta aun no esta completa  
+aun tiene fallas por favor report un error o algún
+comando que desees con el request o report no olvides 
+
+
+ESTE BOT NO NECESITAS MODIFICAR NADA EN ABSOLUTO
+EN EL MENU DICE EXCLUSIVO DEL BOT AHI TU LO PERSONALIZAS DESDE EL BOT
+ 
+ INSTALACIÓN VIA TERMUX
+pkg install wget
+
+pkg install nodejs
+
+pkg install npm
+
+pkg install ffmpeg
+
+npm i
+
+npm start
+
+Escaneas el QR y listo 
