@@ -1,0 +1,10 @@
+{
+  "botName": "Ponchocuar-BOT",
+  "ownerName": "Ponchocuar",
+  "BarBarKey": "YOUR_APIKEY",
+  "ownerNumbers": "5561622094",
+  "languages": "ind",
+  "botPrefix": "#",
+  "memberLimitss": "1",
+  "userDefaultLimit": "1000000"
+}
